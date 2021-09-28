@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo test this file
+echo "test this file"
